@@ -1,2 +1,2 @@
-# dio-projetos
-Desafios dos Bootcamps da Digital Innovation One.
+# Dio-projetos
+Desafios do Bootcamp da Digital Innovation One.
